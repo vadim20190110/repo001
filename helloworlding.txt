@@ -1,1 +1,2 @@
-Hello? Hello, world!
+print ("Hello? Hello, world!");
+print ("Yes, hello!")
